@@ -1,0 +1,1 @@
+# RusTranslate.STSmod.ShopMod
