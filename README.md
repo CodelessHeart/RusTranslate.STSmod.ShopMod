@@ -1,4 +1,4 @@
-# RusTranslate.STSmod.ShopMod
+# TranslatedRus.SlayTheSpire.ShopMod
 
 Оригинальный мод https://steamcommunity.com/sharedfiles/filedetails/?id=1615802935
 
